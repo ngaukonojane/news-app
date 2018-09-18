@@ -1,3 +1,4 @@
+import vue from 'vue'
 import axios from 'axios'
 import App from './App.vue'
 import 'milligram/dist/milligram.css'
